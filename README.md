@@ -2,6 +2,7 @@
 
 📢 Craxs Rat V6.8 Lifetime Update
 
+![screenshot](Screenshot.jpg)
 
 
 
