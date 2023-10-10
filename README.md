@@ -3,9 +3,9 @@
 
 <img src="https://img.shields.io/badge/Version-6.8-brightgreen?style=for-the-badge" >
 
- | Download | 
+ | Download 下载 | 
 | ------------- |
-| [Click Here](https://t.me/hackfilter) |
+| [Click Here 点击这里](https://t.me/hackfilter) |
 
 ![Screenshot](Screenshot.jpg)
 
